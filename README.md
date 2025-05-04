@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 gitlab 
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-gitlab-project-planning-and-source-code-management-logo-shadow-tal-revivo.png" height="30em" align="center" alt="Follow me on Gitlab" title="Follow me on Gitlab"/>](https://gitlab.com/autoacceleration42)
-
+-->
 <!--
 ### hh
 
