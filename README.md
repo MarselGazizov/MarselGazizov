@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![gitlab](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-gitlab-project-planning-and-source-code-management-logo-shadow-tal-revivo.png)
+
 [gitlab-profile](https://gitlab.com/autoacceleration42)
 
 <!--
