@@ -17,8 +17,6 @@ gitlab
 -->
 <!--
 ### hh
-
-
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/fastasacheetah144?theme=nord&font=Mako"></img>
 </p>
